@@ -4,9 +4,9 @@ European AI lab building small, opinionated on-device models.
 
 Every model is free up to 100k monthly active devices per SDK. Unlimited inference per user.
 
-Drop-in SDKs for iOS, Android, and Web, with open weights on [Hugging Face](https://huggingface.co/desert-ant-labs).
+Drop-in SDKs for iOS, Android, Web, and Node, with open weights on [Hugging Face](https://huggingface.co/desert-ant-labs).
 
-| Product | What it does | iOS | Android | Web |
+| Product | What it does | iOS | Android | Web / Node |
 | --- | --- | --- | --- | --- |
 | **Clear** | Speech enhancement: denoise, dereverb, podcast-ready.<br>[Model](https://huggingface.co/desert-ant-labs/clear) · [Demo](https://huggingface.co/spaces/desert-ant-labs/clear-demo) | [clear-swift](https://github.com/Desert-Ant-Labs/clear-swift) | [clear-kotlin](https://github.com/Desert-Ant-Labs/clear-kotlin) | [clear-js](https://github.com/Desert-Ant-Labs/clear-js) |
 | **Emo** | Multilingual emoji suggestions from text.<br>[Model](https://huggingface.co/desert-ant-labs/emo) · [Demo](https://huggingface.co/spaces/desert-ant-labs/emo-demo) | [emo-swift](https://github.com/Desert-Ant-Labs/emo-swift) | [emo-kotlin](https://github.com/Desert-Ant-Labs/emo-kotlin) | [emo-js](https://github.com/Desert-Ant-Labs/emo-js) |
