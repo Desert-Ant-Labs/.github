@@ -20,7 +20,7 @@ Drop-in SDKs for iOS, Android, Web, and Node, with open weights on [Hugging Face
 
 - [All SDKs on GitHub](https://github.com/orgs/Desert-Ant-Labs/repositories)
 - [Models on Hugging Face](https://huggingface.co/desert-ant-labs)
-- [Website](https://desertant.ai)
-- [License](https://license.desertant.ai)
-- Commercial licensing: [licensing@desertant.ai](mailto:licensing@desertant.ai)
-- Request early access: [contact@desertant.ai](mailto:contact@desertant.ai)
+- [Website](https://desertant.com)
+- [License](https://license.desertant.com)
+- Commercial licensing: [licensing@desertant.com](mailto:licensing@desertant.com)
+- Request early access: [contact@desertant.com](mailto:contact@desertant.com)
