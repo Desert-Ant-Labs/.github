@@ -1,10 +1,12 @@
 # Little brains in every product.
 
-European AI lab building small, opinionated on-device models.
+**European AI lab building small, opinionated on-device models.**
 
 Every model is free up to 100k monthly active devices per SDK. Unlimited inference per user.
 
 Drop-in SDKs for iOS, Android, Web, and Node, with open weights on [Hugging Face](https://huggingface.co/desert-ant-labs).
+
+Try our models with the [Desert Ant CLI](https://github.com/Desert-Ant-Labs/desert-ant-cli#desert-ant-cli).
 
 <!-- models:start -->
 | Model | What it does | Platform | Docs |
@@ -42,6 +44,9 @@ nothing to install today. Ask us if you want early access.
 - [All SDKs on GitHub](https://github.com/orgs/Desert-Ant-Labs/repositories)
 - [Models on Hugging Face](https://huggingface.co/desert-ant-labs)
 - [Website](https://desertant.com)
+- [Desert Ant CLI](https://github.com/Desert-Ant-Labs/desert-ant-cli#desert-ant-cli).
 - [License](https://license.desertant.com)
-- Commercial licensing: [licensing@desertant.com](mailto:licensing@desertant.com)
-- Request early access: [contact@desertant.com](mailto:contact@desertant.com)
+
+## Contact us
+- [Commercial licensing](https://desertant.com/contact/)
+- [Request early access](https://desertant.com/contact/)
