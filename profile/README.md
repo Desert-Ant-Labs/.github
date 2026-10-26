@@ -25,7 +25,7 @@ Try our models with the [Desert Ant CLI](https://github.com/Desert-Ant-Labs/dese
 | **Tongue** | On-device language identification for short text across 84 languages. | Apple · Android · Linux · Windows · Web · Node | [SDK](https://github.com/Desert-Ant-Labs/desert-ant-core/blob/main/docs/models/tongue.md) [Model](https://huggingface.co/desert-ant-labs/tongue) |
 | **Uhm** | On-device filler-word detection: frame-precise "uh"/"um"/"hmm" spans. | Apple | [SDK](https://github.com/Desert-Ant-Labs/desert-ant-core/blob/main/docs/models/uhm.md) [Model](https://huggingface.co/desert-ant-labs/uhm) |
 | **Voz** | On-device speech recognition: transcripts with word-level timestamps, 25 languages. | Apple · Android · Linux · Windows · Web · Node | [SDK](https://github.com/Desert-Ant-Labs/desert-ant-core/blob/main/docs/models/voz.md) [Model](https://huggingface.co/desert-ant-labs/voz) |
-| **Who** | On-device speaker labeling: per-person turns with timestamps. | Apple · Android · Linux · Windows | [SDK](https://github.com/Desert-Ant-Labs/desert-ant-core/blob/main/docs/models/who.md) [Model](https://huggingface.co/desert-ant-labs/who) |
+| **Who** | On-device speaker labeling: per-person turns with timestamps. | Apple · Android · Linux · Windows · Web · Node | [SDK](https://github.com/Desert-Ant-Labs/desert-ant-core/blob/main/docs/models/who.md) [Model](https://huggingface.co/desert-ant-labs/who) |
 
 ### In closed beta
 
