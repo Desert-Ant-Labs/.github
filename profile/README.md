@@ -2,7 +2,7 @@
 
 **European AI lab building small, opinionated on-device models.**
 
-Every model is free up to 100k monthly active devices per SDK. Unlimited inference per user.
+Free up to 100k monthly active devices across models. Unlimited inference.
 
 Drop-in SDKs for iOS, Android, Web, and Node, with open weights on [Hugging Face](https://huggingface.co/desert-ant-labs).
 
